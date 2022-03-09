@@ -1,0 +1,15 @@
+D:\Anderson\Trampo\Workspace\Treino .NET\ProjetoSeries\ProjetoLivros\bin\Debug\net6.0\ProjetoLivros.exe
+D:\Anderson\Trampo\Workspace\Treino .NET\ProjetoSeries\ProjetoLivros\bin\Debug\net6.0\ProjetoLivros.deps.json
+D:\Anderson\Trampo\Workspace\Treino .NET\ProjetoSeries\ProjetoLivros\bin\Debug\net6.0\ProjetoLivros.runtimeconfig.json
+D:\Anderson\Trampo\Workspace\Treino .NET\ProjetoSeries\ProjetoLivros\bin\Debug\net6.0\ProjetoLivros.dll
+D:\Anderson\Trampo\Workspace\Treino .NET\ProjetoSeries\ProjetoLivros\bin\Debug\net6.0\ProjetoLivros.pdb
+D:\Anderson\Trampo\Workspace\Treino .NET\ProjetoSeries\ProjetoLivros\obj\Debug\net6.0\ProjetoLivros.csproj.AssemblyReference.cache
+D:\Anderson\Trampo\Workspace\Treino .NET\ProjetoSeries\ProjetoLivros\obj\Debug\net6.0\ProjetoLivros.GeneratedMSBuildEditorConfig.editorconfig
+D:\Anderson\Trampo\Workspace\Treino .NET\ProjetoSeries\ProjetoLivros\obj\Debug\net6.0\ProjetoLivros.AssemblyInfoInputs.cache
+D:\Anderson\Trampo\Workspace\Treino .NET\ProjetoSeries\ProjetoLivros\obj\Debug\net6.0\ProjetoLivros.AssemblyInfo.cs
+D:\Anderson\Trampo\Workspace\Treino .NET\ProjetoSeries\ProjetoLivros\obj\Debug\net6.0\ProjetoLivros.csproj.CoreCompileInputs.cache
+D:\Anderson\Trampo\Workspace\Treino .NET\ProjetoSeries\ProjetoLivros\obj\Debug\net6.0\ProjetoLivros.dll
+D:\Anderson\Trampo\Workspace\Treino .NET\ProjetoSeries\ProjetoLivros\obj\Debug\net6.0\refint\ProjetoLivros.dll
+D:\Anderson\Trampo\Workspace\Treino .NET\ProjetoSeries\ProjetoLivros\obj\Debug\net6.0\ProjetoLivros.pdb
+D:\Anderson\Trampo\Workspace\Treino .NET\ProjetoSeries\ProjetoLivros\obj\Debug\net6.0\ProjetoLivros.genruntimeconfig.cache
+D:\Anderson\Trampo\Workspace\Treino .NET\ProjetoSeries\ProjetoLivros\obj\Debug\net6.0\ref\ProjetoLivros.dll
